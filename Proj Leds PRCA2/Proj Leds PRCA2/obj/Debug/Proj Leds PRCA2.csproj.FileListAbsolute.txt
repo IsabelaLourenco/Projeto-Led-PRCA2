@@ -1,0 +1,10 @@
+C:\Users\isavs\source\repos\Proj Leds PRCA2\Proj Leds PRCA2\obj\Debug\Proj Leds PRCA2.csprojAssemblyReference.cache
+C:\Users\isavs\source\repos\Proj Leds PRCA2\Proj Leds PRCA2\obj\Debug\Proj_Leds_PRCA2.Form1.resources
+C:\Users\isavs\source\repos\Proj Leds PRCA2\Proj Leds PRCA2\obj\Debug\Proj_Leds_PRCA2.Properties.Resources.resources
+C:\Users\isavs\source\repos\Proj Leds PRCA2\Proj Leds PRCA2\obj\Debug\Proj Leds PRCA2.csproj.GenerateResource.cache
+C:\Users\isavs\source\repos\Proj Leds PRCA2\Proj Leds PRCA2\obj\Debug\Proj Leds PRCA2.csproj.CoreCompileInputs.cache
+C:\Users\isavs\source\repos\Proj Leds PRCA2\Proj Leds PRCA2\bin\Debug\Proj Leds PRCA2.exe.config
+C:\Users\isavs\source\repos\Proj Leds PRCA2\Proj Leds PRCA2\bin\Debug\Proj Leds PRCA2.exe
+C:\Users\isavs\source\repos\Proj Leds PRCA2\Proj Leds PRCA2\bin\Debug\Proj Leds PRCA2.pdb
+C:\Users\isavs\source\repos\Proj Leds PRCA2\Proj Leds PRCA2\obj\Debug\Proj Leds PRCA2.exe
+C:\Users\isavs\source\repos\Proj Leds PRCA2\Proj Leds PRCA2\obj\Debug\Proj Leds PRCA2.pdb
